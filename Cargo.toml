@@ -1,0 +1,7 @@
+[package]
+name = "markov_rust"
+version = "0.1.0"
+authors = ["Christian Briones <cwbriones@gmail.com>"]
+
+[dependencies]
+rand = "*"
